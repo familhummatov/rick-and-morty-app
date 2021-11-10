@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rick-and-morty-app/static/css/main.b705fa19.chunk.css",
+    "main.js": "/rick-and-morty-app/static/js/main.91843e7d.chunk.js",
+    "main.js.map": "/rick-and-morty-app/static/js/main.91843e7d.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty-app/static/js/runtime-main.17d612e7.js",
+    "runtime-main.js.map": "/rick-and-morty-app/static/js/runtime-main.17d612e7.js.map",
+    "static/css/2.d1e7a3fc.chunk.css": "/rick-and-morty-app/static/css/2.d1e7a3fc.chunk.css",
+    "static/js/2.58660cb3.chunk.js": "/rick-and-morty-app/static/js/2.58660cb3.chunk.js",
+    "static/js/2.58660cb3.chunk.js.map": "/rick-and-morty-app/static/js/2.58660cb3.chunk.js.map",
+    "index.html": "/rick-and-morty-app/index.html",
+    "static/css/2.d1e7a3fc.chunk.css.map": "/rick-and-morty-app/static/css/2.d1e7a3fc.chunk.css.map",
+    "static/css/main.b705fa19.chunk.css.map": "/rick-and-morty-app/static/css/main.b705fa19.chunk.css.map",
+    "static/js/2.58660cb3.chunk.js.LICENSE.txt": "/rick-and-morty-app/static/js/2.58660cb3.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/rick-and-morty-app/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17d612e7.js",
+    "static/css/2.d1e7a3fc.chunk.css",
+    "static/js/2.58660cb3.chunk.js",
+    "static/css/main.b705fa19.chunk.css",
+    "static/js/main.91843e7d.chunk.js"
+  ]
+}

@@ -1,6 +1,6 @@
 export const routes = {
-  characters: "/",
-  episodes: "/episodes",
-  locations: "/locations",
-  myWatchList: "/my-watch-list",
+  characters: "/rick-and-morty-app",
+  episodes: "/rick-and-morty-app/episodes",
+  locations: "/rick-and-morty-app/locations",
+  myWatchList: "/rick-and-morty-app/my-watch-list",
 };
